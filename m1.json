@@ -19,6 +19,15 @@
              "imageURL": "https://farm8.staticflickr.com/7487/15998930428_63531745f2_c.jpg",
              "submenu":"https://raw.githubusercontent.com/namphuong2011/a1/master/daily.json",
              },
+             {
+             "title": "Xem bài Tarot",
+             "content": "Bói bài Tarot giúp người xem giải quyết được những vấn đề khúc mắc, khó khăn mình đang gặp phải trong cuộc sống, nó được coi là công cụ mang tính sáng tạo giúp con người thiền định, cải thiện trí tuệ của bản thân hơn. Có những người sử dụng bài tarot để giải trí, thư giãn nhưng cũng có nhiều người tập trung nghiên cứu ý nghĩa sâu sắc của các hình vẽ trên mặt bài và nguồn gốc, lịch sử của chúng.",
+             "username": "vansu",
+             "time": "2015.04.10",
+             "imageName": "forkingdog",
+             "imageURL": "https://farm8.staticflickr.com/7487/15998930428_63531745f2_c.jpg",
+             "submenu":"https://raw.githubusercontent.com/namphuong2011/a1/master/ta.json",
+             },
              
              {
              "title": "Tử Vi 12 Cung Hoàng Đạo",
