@@ -7,7 +7,6 @@
              "time": "2015.04.10",
              "imageName": "",
              "imageURL": "https://i-h2.pinimg.com/564x/7b/e9/af/7be9aff1c5818d46dd126fe15f5431d8.jpg",
-             "submenu":"https://raw.githubusercontent.com/namphuong2011/a1/master/d1.json",
               "localrun":"basketball"
              },
         
@@ -18,7 +17,6 @@
              "time": "2015.04.10",
              "imageName": "forkingdog",
              "imageURL": "https://i-h2.pinimg.com/564x/30/51/36/305136e9f6224bcbfb9943a30308bb88.jpg",
-             "submenu":"https://raw.githubusercontent.com/namphuong2011/a1/master/daily.json",
               "localrun":"gobaduk"
              },
              {
@@ -28,7 +26,7 @@
              "time": "2015.04.10",
              "imageName": "",
              "imageURL": "https://farm8.staticflickr.com/7824/40357128383_504ffe1688_c.jpg",
-             "submenu":"https://raw.githubusercontent.com/namphuong2011/a1/master/ta.json",
+             "localrun":"tuvi"
              },
              {
              "title": "Xem phong thuỷ đón tài lộc",
@@ -37,7 +35,7 @@
              "time": "2015.04.10",
              "imageName": "forkingdog",
              "imageURL": "https://farm8.staticflickr.com/7813/46669061184_4615854fd4_q.jpg",
-             "submenu":"https://raw.githubusercontent.com/namphuong2011/a1/master/pt.json",
+             "localrun":"luotnhanh"
              },
              {
              "title": "Tử Vi 12 Cung Hoàng Đạo",
@@ -46,16 +44,7 @@
              "time": "2015.04.10",
              "imageName": "forkingdog",
              "imageURL": "https://farm5.staticflickr.com/4401/36643913830_910c5401ea_c.jpg",
-             "submenu":"https://raw.githubusercontent.com/namphuong2011/t/master/12cung.json",
-             },
-             {
-                 "title": "12 Cung Hoàng Đạo xem hàng ngày",
-                 "content": "12 Cung tương ứng với 12 chòm sao tạo thành vòng tròn Hoàng đạo mà người Tây phương hay gọi nôm na là Horoscope - tức ý chỉ đường đi của mặt trời. Xem tử vi 12 cung hoàng đạo bạn sẽ biết được trong ngày hôm nay sức khỏe, thể trạng của bạn như thế nào; chỉ số may mắn ra sao? Chuyện tình cảm liệu có được suôn sẻ hay không?... ",
-                 "username": "vansu",
-                 "time": "2015.04.10",
-                 "imageName": "",
-                 "imageURL": "https://farm5.staticflickr.com/4864/40043078063_330ec029aa_c.jpg",
-                 "submenu":"https://raw.githubusercontent.com/namphuong2011/t/master/12daily.json",
+             "localrun":"nauan"
              },
 
              ]
