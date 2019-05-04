@@ -8,6 +8,7 @@
              "imageName": "",
              "imageURL": "https://i-h2.pinimg.com/564x/7b/e9/af/7be9aff1c5818d46dd126fe15f5431d8.jpg",
              "submenu":"https://raw.githubusercontent.com/namphuong2011/a1/master/d1.json",
+              "localrun":"basketball"
              },
         
              {
@@ -18,6 +19,7 @@
              "imageName": "forkingdog",
              "imageURL": "https://i-h2.pinimg.com/564x/30/51/36/305136e9f6224bcbfb9943a30308bb88.jpg",
              "submenu":"https://raw.githubusercontent.com/namphuong2011/a1/master/daily.json",
+              "localrun":"gobaduk"
              },
              {
              "title": "Xem bài Tarot",
