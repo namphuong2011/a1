@@ -1,9 +1,10 @@
 {
     "feed": [
              {
-                 "title": "BÚN RIÊU",
+             "title": "BÚN RIÊU",
              "content": "Bún riêu có hai loại, riêu cua hay riêu tôm khô. Nấu bằng loại nào thì thịt cua hay tôm cũng sẽ nổi thành tảng phía trên thành. Nếu nấu vụng, thịt cua hay tôm sẽ vỡ hay chìm, không ngon. Tôi chưa nghe ai xào riêu cả, chỉ có xào cà chua để cho vào nồi riêu thôi.",
              "time": "",
+             "username": "food",
              "imageName": "",
              "imageURL": "",
              "lucky":"0",
@@ -20,7 +21,7 @@
              {
                  "title": "BÚN BÒ HUẾ",
                  "content": "Bát bún bò nóng hổi, hương vị đậm đà nhưng cay xé lưỡi đặc trưng của xứ Huế sẽ là món đổi vị thích hợp cho gia đình bạn vào cuối tuần.",
-                 "username": "tuviglobal",
+                 "username": "food",
                  "time": "2015.04.10",
                  "imageName": "",
                  "imageURL": "",
@@ -35,7 +36,7 @@
              {
                  "title": "BÚN RIÊU NAM BỘ",
                  "content": "Chà xát, rửa xương với muối và rửa lại nước sạch nhiều lần. Bắt nước sôi, cho xương vào luộc 1-2 phút rồi đổ ra rổ để ráo nhằm lọc cặn bã và vụn thịt của xương",
-                 "username": "",
+                 "username": "food",
                  "time": "2015.04.10",
                  "imageName": "",
                  "imageURL": "",
@@ -50,7 +51,7 @@
              {
                  "title": "BÚN MỌC",
                  "content": "Nguyên liệu cần chuẩn bị để làm món bún mọc sườn ngon:\n4 lạng thịt sườn thăn\n3 lạng xương ống\n50g giò sống\n7 lạng bún tươi\n3 cái mộc nhĩ",
-                 "username": "",
+                 "username": "food",
                  "time": "2015.04.10",
                  "imageName": "",
                  "imageURL": "",
@@ -65,7 +66,7 @@
              {
                  "title": "Bánh canh cua",
                  "content": "Comming soon !!",
-                 "username": "t",
+                 "username": "food",
                  "time": "2015.04.10",
                  "imageName": "",
                  "imageURL": "",
